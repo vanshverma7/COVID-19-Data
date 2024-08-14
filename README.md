@@ -2,7 +2,7 @@
 
 This project contains SQL queries designed to analyze COVID-19 data from January 1, 2020, to August 12, 2024. The queries offer insights into various aspects of the pandemic, including infection rates, death rates, vaccination rates, and global statistics.
 
-**Note:** The queries provided can be used on updated datasets as per the user's choice. The latest version of the dataset can be downloaded from [xxxyyy.website](http://xxxyyy.website).
+**Note:** The queries provided can be used on updated datasets as per the user's choice. The latest version of the dataset can be downloaded from [CLICK HERE](https://ourworldindata.org/covid-deaths).
 
 ## Features
 
@@ -25,4 +25,4 @@ This project contains SQL queries designed to analyze COVID-19 data from January
 
 You can execute these SQL queries on the dataset to perform various analyses and gain insights into the COVID-19 pandemic.
 
-**Note:** The latest version of the dataset can be downloaded from [xxxyyy.website](http://xxxyyy.website).
+**Note:** The latest version of the dataset can be downloaded from [https://ourworldindata.org/covid-deaths](https://ourworldindata.org/covid-deaths).

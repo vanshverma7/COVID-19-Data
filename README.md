@@ -4,7 +4,7 @@ This project contains SQL queries designed to analyze COVID-19 data. The queries
 
 **Note:** The queries provided can be used on updated datasets as per the user's choice. The latest version of the dataset can be downloaded from [CLICK HERE](https://ourworldindata.org/covid-deaths).
 
-### <u>Line Chart as on 15 AUG, 2024 for Covid Data</>
+### Line Chart as on 15 AUG, 2024 for Covid Data
  ![Example Image](Images/coronavirus-data-explorer.png)
 
 ## Features
